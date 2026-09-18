@@ -302,13 +302,7 @@ export const botConfig = {
   // =========================
   verification: {
     // Message shown when posting the verification panel.
-    defaultMessage: "## 🔐・NoEscape Verification
-
-Welcome to **NoEscape**.
-Complete the verification below to confirm your access and unlock the server.
-
--# Click the button below to verify.
-",
+    defaultMessage: "Click the button below to verify yourself and gain access to the server!",
 
     // Text on the verification button.
     defaultButtonText: "Verify",

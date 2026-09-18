@@ -313,7 +313,7 @@ export const botConfig = {
       // - "none"        = everyone is auto-verified immediately
       // - "account_age" = account must be older than set days
       // - "server_size" = auto-verify everyone only in smaller servers
-      defaultCriteria: "account-age",
+      defaultCriteria: "account_age",
 
       // Days used when `defaultCriteria` is `account_age`.
       defaultAccountAgeDays: 90,
